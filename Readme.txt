@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 try one more line.
 Fifth line.
 Sixth line.
+Create a new branch.
