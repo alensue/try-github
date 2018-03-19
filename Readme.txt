@@ -4,3 +4,4 @@ try one more line.
 Fifth line.
 Sixth line.
 Create a new branch.
+I'm in branch master.
